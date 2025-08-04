@@ -39,6 +39,7 @@ These changes focus on making the game experience more immersive and satisfying 
 
 
 \##  How to Play
+github：https://github.com/clarewyc/Assignment-16.2-A-New-Concept
 
 1\. Open the Unity project (recommended version: 6000.0.51f1).  
 
