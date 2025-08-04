@@ -43,7 +43,7 @@ github：https://github.com/clarewyc/Assignment-16.2-A-New-Concept
 
 1\. Open the Unity project (recommended version: 6000.0.51f1).  
 
-2\. Press `Play` in the editor.  
+2\. Choose Project > scenes > SampleScene, press `Play` in the editor.  
 
 3\. Use your mouse to select and drag between stars to connect them.  
 
